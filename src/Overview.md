@@ -8,7 +8,7 @@ We want to have a pipeline like the below.
 
 
 
-![pipeline](./Images/pipeline.png)
+![pipeline](./images/pipeline.png)
 
 
 
@@ -16,7 +16,7 @@ Now in the context of Direct Volume Rendering, from DeepDVR, we have
 
 
 
-![dvr_pipeline](./Images/DVR_pipeline.png)
+![dvr_pipeline](./images/DVR_pipeline.png)
 
 
 
