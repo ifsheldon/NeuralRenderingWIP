@@ -24,9 +24,9 @@ Then we would like to see if the model of DeepDVR can be adapted to generating t
 
 ## Milestones
 
-1. Test reproducibility of DeepDVR. Estimate Done Before: Sept 6th [ ]
-    * Test on easiest examples of density summation [ ]
-    * Test on examples of DVR [ ]
+1. Test reproducibility of DeepDVR. Estimate Done Before: Sept 6th [x]
+    * Test on easiest examples of density summation [x]
+    * Test on examples of DVR [x]
 2. Collect data for transfer learning for tilt image projection. Estimate Done Before: TBD [ ]
     * Decide attributes in voxels [ ]
     * Get volumes of atomistic models [ ]
