@@ -29,7 +29,7 @@ Then we would like to see if the model of DeepDVR can be adapted to generating t
     * Test on examples of DVR [x]
 2. Collect data for transfer learning for tilt image projection. Estimate Done Before: Sept 12th [ ]
     * Decide attributes in voxels [ ]
-    * Decide resolution of volumes (see Changelogs/Sept 5th) [ ]
+    * Decide resolution of volumes (see Changelogs/Sept 5th) [x]
         * Try out volumes with DeepDVR of various resolutions.
     * Get volumes of atomistic models [ ]
     * Get Pseudo Ground Truth from TEM simulator [ ]
