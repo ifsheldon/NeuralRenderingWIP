@@ -44,3 +44,12 @@ Finished the first milestone in [Overview](Overview.md):
   References:
 
   ![image-20210904225922422](images/heart_refs.png)
+  
+  ## Sept 5th, 2021
+  
+  In the NanoVis meeting, some issues are pointed out:
+  
+  * Volumes are not large enough. 128^3 is just 2 million. Need to scale the model to 256^3 and see what happens. Maybe 512^3, since 3D convolutions and DVR in DeepDVR are volume-resolution-agnostic. [ ] 
+  * Like in Sept 1st, check what attributes need to be included in each voxel of a volume [ ]
+      * Decide what to do when multiple atoms partially occupy a voxel [ ]
+

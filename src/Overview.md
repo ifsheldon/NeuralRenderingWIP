@@ -27,8 +27,10 @@ Then we would like to see if the model of DeepDVR can be adapted to generating t
 1. Test reproducibility of DeepDVR. Estimate Done Before: Sept 6th [x]
     * Test on easiest examples of density summation [x]
     * Test on examples of DVR [x]
-2. Collect data for transfer learning for tilt image projection. Estimate Done Before: TBD [ ]
+2. Collect data for transfer learning for tilt image projection. Estimate Done Before: Sept 12th [ ]
     * Decide attributes in voxels [ ]
+    * Decide resolution of volumes (see Changelogs/Sept 5th) [ ]
+        * Try out volumes with DeepDVR of various resolutions.
     * Get volumes of atomistic models [ ]
     * Get Pseudo Ground Truth from TEM simulator [ ]
 3. Train models to generate clean tilt projections. Estimate Done Before: TBD [ ]
